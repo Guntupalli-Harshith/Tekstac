@@ -1,0 +1,30 @@
+[
+    {
+      "companyName": "Tech Solutions Inc",
+      "city": "New York",
+      "officeAddress": "123 Tech Street, Suite 456",
+      "contactNumber": "555-1234",
+      "jobRole": "Software Engineer",
+      "experienceRequired": 2,
+      "qualification": "BE/BTech"
+    },
+    {
+      "companyName": "Data Innovators Co",
+      "city": "San Francisco",
+      "officeAddress": "789 Data Avenue, Floor 10",
+      "contactNumber": "555-5678",
+      "jobRole": "Data Scientist",
+      "experienceRequired": 3,
+      "qualification": "ME/MTech"
+    },
+    {
+      "companyName": "Web Wizards Ltd",
+      "city": "London",
+      "officeAddress": "456 Web Lane, Suite 789",
+      "contactNumber": "+44 20 1234 5678",
+      "jobRole": "Web Developer",
+      "experienceRequired": 1,
+      "qualification": "BCA/MCA"
+    }
+  ]
+  

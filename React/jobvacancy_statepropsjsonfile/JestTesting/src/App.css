@@ -1,0 +1,89 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+form {
+  margin-top: 40px;
+  background-color: #ddc6c6;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width:70%;
+  margin-left:auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+form div:first-child {
+  text-align: center;
+  color: #ffffff;
+  background-color: #280341;
+  padding:6px;
+  margin-bottom:20px;
+}
+
+form label {
+  font-weight: bold;
+  color: #333;
+}
+
+form input[type="text"],
+form input[type="number"],
+form select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+form button {
+  width: 100%;
+  background-color: #280341;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: #1d0322;
+}
+
+#result {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  color:#530b61;
+  font-size: 24px;
+  font-family: 'Courier New';
+  font-weight: bold;
+}
+
+#result p {
+  margin: 0;
+}
+
+#result .success {
+  color: #4caf50;
+}
+
+#result .error {
+  color: #f44336;
+}

@@ -1,0 +1,86 @@
+.container {
+    padding: 20px;
+  }
+  
+  .header {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #716e6b;
+    color: white;
+    cursor: pointer;
+    margin-left: 200px;
+  }
+  
+  .button:disabled {
+    background-color: #aaa;
+  }
+  
+  .table {
+    width: 75%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    background-color: #f9e3e3;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {	 	  	  	 			     	    	 	
+    background-color: #c5c0c0;
+  }
+  
+  .songLink {
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .songLink:hover {
+    text-decoration: underline;
+  }
+  
+  /* Modal Styles */
+  .modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #e9e0e0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+  }
+  
+  .modal h2 {
+    margin-bottom: 20px;
+  }
+  
+  .modal p {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .modal button {	 	  	  	 			     	    	 	
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #716e6b;
+    color: white;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .modal button:hover {
+    background-color: #5a5755;
+  }
+  

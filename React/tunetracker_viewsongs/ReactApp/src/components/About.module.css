@@ -1,0 +1,19 @@
+.container {
+    padding: 20px;
+    /* background-color: #c0c0c0; */
+  }
+  
+  .header {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .text {
+    font-size: 16px;
+    text-align: left;
+    width: 35%;
+  }
+  /* body{
+    background-color: #dd9191;
+  }  */
+    
