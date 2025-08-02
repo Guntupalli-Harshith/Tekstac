@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "brand": "Dell",
+    "price": 999,
+    "description": "Powerful laptop with Intel Core i7 processor and 16GB RAM"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "brand": "Samsung",
+    "price": 699,
+    "description": "High-performance smartphone with 6-inch display and triple camera setup"
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch",
+    "brand": "Apple",
+    "price": 349,
+    "description": "Stylish smartwatch with heart rate monitor and GPS tracking"
+  }
+]

@@ -1,0 +1,46 @@
+h1{
+        text-align:left;
+        color:#000080;
+        min-height:0.5em;
+        padding:1em;
+        padding-left:2em;
+        outline:2px groove #ffffff;
+        background-color:#00B7EB;
+        width:212%;
+}
+h3{
+       color:#E6E6FA;
+       text-align:left;
+       margin-left:10%;
+}
+form{
+      background-color:#E6E6FA;
+      border:5px double #000000;
+      width:125%;
+      padding:1em;
+      margin-left:10%;
+}
+label{
+      font-weight:bold;
+}
+input[type=text]{
+     min-height:25px;
+} 
+button{
+    background-color:green;
+    margin-left:75px;
+    border-radius:5px;
+    color:#ffffff;
+}
+span{
+    color:red;
+}
+div{
+    background-color: #51414F;
+    min-height: 500px;
+    width:40%;
+}
+body{
+   background-color:#ADD8E6;
+   /*min-height:500px;*/
+}
